@@ -34,5 +34,6 @@
 
 # Visual Studio Local Temp Files
 .vs/
-
+The-Rabin-Engine/
 x64/
+packages/
